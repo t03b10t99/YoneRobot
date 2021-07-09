@@ -1,4 +1,4 @@
-__mod_name__ = "◎Tools"
+__mod_name__ = "More-Tools"
 
 __help__ = """
 *Telegraph*
