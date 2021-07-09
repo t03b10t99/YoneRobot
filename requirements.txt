@@ -65,4 +65,3 @@ textblob
 nudepy
 motor
 cloudscraper
-google_trans_new
