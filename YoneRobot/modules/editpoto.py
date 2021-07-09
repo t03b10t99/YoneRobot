@@ -77,7 +77,7 @@ async def photo(client: Client, message: Message):
     try:
         await client.send_message(
             chat_id=message.chat.id,
-            text="Select your required mode from below!\nCuma mw bilang @tofik_dn ganteng :v",
+            text="Select your required mode from below!",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
